@@ -6,6 +6,7 @@
 
 | 난이도 | 푼 문제 수 |
 |--------|-----------|
+| Lv.0   | 0         |
 | Lv.1   | 0         |
 | Lv.2   | 0         |
 | Lv.3   | 0         |
@@ -16,11 +17,12 @@
 ```
 coding-test/
 └── programmers/
-    ├── level1/
+    ├── level0/
     │   └── 12345_문제이름/
     │       ├── solution.py
     │       ├── Solution.java
     │       └── README.md
+    ├── level1/
     ├── level2/
     └── level3/
 ```
