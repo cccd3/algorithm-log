@@ -13,10 +13,10 @@
 | 난이도 | 푼 문제 수 |
 |--------|-----------|
 | Lv.0   | 2         |
-| Lv.1   | 3         |
+| Lv.1   | 4         |
 | Lv.2   | 0         |
 | Lv.3   | 0         |
-| **합계** | **5**   |
+| **합계** | **6**   |
 
 ## 📁 폴더 구조
 
@@ -47,6 +47,7 @@ coding-test/
 | 12943 | 콜라츠 추측 | Lv.1 | Java | [programmers/level1/12943_콜라츠_추측](programmers/level1/12943_콜라츠_추측) |
 | 12934 | 정수 제곱근 판별 | Lv.1 | Java | [programmers/level1/12934_정수_제곱근_판별](programmers/level1/12934_정수_제곱근_판별) |
 | 82612 | 부족한 금액 계산하기 | Lv.1 | Java | [programmers/level1/82612_부족한_금액_계산하기](programmers/level1/82612_부족한_금액_계산하기) |
+| 12932 | 자연수 뒤집어 배열로 만들기 | Lv.1 | Java | [programmers/level1/12932_자연수_뒤집어_배열로_만들기](programmers/level1/12932_자연수_뒤집어_배열로_만들기) |
 
 ## ✍️ 커밋 컨벤션
 
