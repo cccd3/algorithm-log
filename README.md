@@ -13,10 +13,10 @@
 | 난이도 | 푼 문제 수 |
 |--------|-----------|
 | Lv.0   | 2         |
-| Lv.1   | 5         |
+| Lv.1   | 6         |
 | Lv.2   | 0         |
 | Lv.3   | 0         |
-| **합계** | **7**   |
+| **합계** | **8**   |
 
 ## 📁 폴더 구조
 
@@ -44,6 +44,7 @@ coding-test/
 |------|------|--------|------|------|
 | 181888 | n개 간격의 원소들 | Lv.0 | Java | [programmers/level0/181888_n개_간격의_원소들](programmers/level0/181888_n개_간격의_원소들) |
 | 181924 | 수열과 구간 쿼리 3 | Lv.0 | Java | [programmers/level0/181924_수열과_구간_쿼리_3](programmers/level0/181924_수열과_구간_쿼리_3) |
+| 12950 | 행렬의 덧셈 | Lv.1 | Java | [programmers/level1/12950_행렬의_덧셈](programmers/level1/12950_행렬의_덧셈) |
 | 12943 | 콜라츠 추측 | Lv.1 | Java | [programmers/level1/12943_콜라츠_추측](programmers/level1/12943_콜라츠_추측) |
 | 12934 | 정수 제곱근 판별 | Lv.1 | Java | [programmers/level1/12934_정수_제곱근_판별](programmers/level1/12934_정수_제곱근_판별) |
 | 82612 | 부족한 금액 계산하기 | Lv.1 | Java | [programmers/level1/82612_부족한_금액_계산하기](programmers/level1/82612_부족한_금액_계산하기) |
