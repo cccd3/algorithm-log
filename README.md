@@ -5,7 +5,7 @@
 | 난이도 | 문제 수 |
 |:---:|---:|
 | [Lv.0](programmers/level0) | 2 |
-| [Lv.1](programmers/level1) | 10 |
+| [Lv.1](programmers/level1) | 11 |
 | Lv.2 | 0 |
 | Lv.3 | 0 |
-| **합계** | **12** |
+| **합계** | **13** |
